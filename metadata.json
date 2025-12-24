@@ -1,0 +1,8 @@
+{
+  "name": "VPE Studio Pro",
+  "description": "A world-class AI-powered visual production engine for creating viral video content from scripts, featuring cinematic style intelligence, TTS, and high-fidelity image/video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
